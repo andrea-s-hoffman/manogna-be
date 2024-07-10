@@ -1,0 +1,5 @@
+{
+  "mongodb": {
+    "uri": "mongodb+srv://admin:redbull@cluster0.34im7b6.mongodb.net/manogna_db?retryWrites=true&w=majority&appName=Cluster0"
+  }
+}
